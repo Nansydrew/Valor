@@ -1,0 +1,11 @@
+@media (min-width: 768px){
+.page-header {
+ padding-top: 150px;
+}
+}
+
+@media (min-width: 300px){
+.page-header {
+ padding-top: 300px;
+}
+}
